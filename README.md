@@ -1,4 +1,4 @@
-把Retrofi 和Okhttp相关的依赖加上
+把Retrofit 和OkHttp相关的依赖加上
 
 如:(具体要看最新版本)
 ```
